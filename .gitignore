@@ -1,0 +1,28 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+env/
+ENV/
+venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Data Files (You can track processed versions selectively if needed)
+data/raw/
+data/processed/
+
+# Environment Variables
+.env
+
+# VS Code Settings
+.vscode/
+
+# Mac & OS Specific
+.DS_Store
+Thumbs.db

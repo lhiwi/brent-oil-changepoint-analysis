@@ -1,0 +1,23 @@
+# Core Data Science Libraries
+pandas
+numpy
+matplotlib
+seaborn
+
+# Bayesian Modeling
+pymc3
+arviz
+
+# Machine Learning Utility
+scikit-learn
+
+# Jupyter Notebook Support
+jupyter
+ipykernel
+
+# Web Framework for API
+flask
+
+# Testing Framework
+pytest
+

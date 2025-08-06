@@ -1,0 +1,13 @@
+Event Date,Event Name,Event Description,Category
+8/2/1990,Gulf War Invasion,Iraq invades Kuwait triggering Gulf War,Conflict
+7/2/1997,Asian Financial Crisis,Collapse of Asian economies starting with Thailand,Economic Shock
+9/11/2001,9/11 Terrorist Attacks,Terrorist attacks in the US causing oil market uncertainty,Conflict
+3/20/2003,Iraq War Begins,US-led invasion of Iraq,Conflict
+9/15/2008,Global Financial Crisis,Lehman Brothers collapse triggers global recession,Economic Shock
+2/17/2011,Libyan Civil War,Armed conflict disrupts oil production in Libya,Conflict
+11/27/2014,OPEC Maintains Production,"OPEC refuses to cut output,  triggering price crash",OPEC Policy
+11/30/2016,OPEC Cuts Production Agreement,OPEC and non-OPEC agree to cut production,OPEC Policy
+5/8/2018,US Reimposes Iran Sanctions,US withdraws from Iran nuclear deal and reinstates sanctions,Sanctions
+3/11/2020,COVID-19 Pandemic,WHO declares COVID-19 a pandemic,Health Crisis
+4/20/2020,Negative Oil Prices,WTI oil futures close negative for the first time,Economic Shock
+2/24/2022,Russia-Ukraine War,Russia invades Ukraine escalating oil supply fears,Conflict

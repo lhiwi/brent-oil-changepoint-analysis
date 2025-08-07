@@ -1,0 +1,74 @@
+[
+  {
+    "Event Date":"1990-08-02",
+    "Event Name":"Gulf War Invasion",
+    "Event Description":"Iraq invades Kuwait triggering Gulf War",
+    "Category":"Conflict"
+  },
+  {
+    "Event Date":"1997-07-02",
+    "Event Name":"Asian Financial Crisis",
+    "Event Description":"Collapse of Asian economies starting with Thailand",
+    "Category":"Economic Shock"
+  },
+  {
+    "Event Date":"2001-09-11",
+    "Event Name":"9\/11 Terrorist Attacks",
+    "Event Description":"Terrorist attacks in the US causing oil market uncertainty",
+    "Category":"Conflict"
+  },
+  {
+    "Event Date":"2003-03-20",
+    "Event Name":"Iraq War Begins",
+    "Event Description":"US-led invasion of Iraq",
+    "Category":"Conflict"
+  },
+  {
+    "Event Date":"2008-09-15",
+    "Event Name":"Global Financial Crisis",
+    "Event Description":"Lehman Brothers collapse triggers global recession",
+    "Category":"Economic Shock"
+  },
+  {
+    "Event Date":"2011-02-17",
+    "Event Name":"Libyan Civil War",
+    "Event Description":"Armed conflict disrupts oil production in Libya",
+    "Category":"Conflict"
+  },
+  {
+    "Event Date":"2014-11-27",
+    "Event Name":"OPEC Maintains Production",
+    "Event Description":"OPEC refuses to cut output,  triggering price crash",
+    "Category":"OPEC Policy"
+  },
+  {
+    "Event Date":"2016-11-30",
+    "Event Name":"OPEC Cuts Production Agreement",
+    "Event Description":"OPEC and non-OPEC agree to cut production",
+    "Category":"OPEC Policy"
+  },
+  {
+    "Event Date":"2018-05-08",
+    "Event Name":"US Reimposes Iran Sanctions",
+    "Event Description":"US withdraws from Iran nuclear deal and reinstates sanctions",
+    "Category":"Sanctions"
+  },
+  {
+    "Event Date":"2020-03-11",
+    "Event Name":"COVID-19 Pandemic",
+    "Event Description":"WHO declares COVID-19 a pandemic",
+    "Category":"Health Crisis"
+  },
+  {
+    "Event Date":"2020-04-20",
+    "Event Name":"Negative Oil Prices",
+    "Event Description":"WTI oil futures close negative for the first time",
+    "Category":"Economic Shock"
+  },
+  {
+    "Event Date":"2022-02-24",
+    "Event Name":"Russia-Ukraine War",
+    "Event Description":"Russia invades Ukraine escalating oil supply fears",
+    "Category":"Conflict"
+  }
+]

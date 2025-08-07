@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+.section {
+  margin-top: 2rem;
+}
+
+h1 {
+  color: #2b3a42;
+}
+
+h2 {
+  color: #3b4d61;
+}

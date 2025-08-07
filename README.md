@@ -127,10 +127,5 @@ The frontend will run on: `http://localhost:3000`
 * **Frontend:** React.js, Axios, Chart.js
 
 
-## Reports
-
-* [Task 1: Interim Report](interim.md)
-* [Task 2: Change Point Modeling Report](notebooks/change_point_model.ipynb)
-* [Final Medium-Style Report](final_report.md)
 
 
